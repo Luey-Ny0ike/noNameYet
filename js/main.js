@@ -322,6 +322,7 @@ $(".time").html("month");
 $(".price1").html("4,550");
 $(".price2").html("6,500");
 $(".price3").html("13,000");
+$(".price4").html("19,500");
 });
 $(".timeframe2").click(function(){	
 $(".timeframe2").html("switch to semi annual");
@@ -329,6 +330,7 @@ $(".time").html("6 months");
 $(".price1").html("3,500");
 $(".price2").html("5,000");
 $(".price3").html("10,000");
+$(".price4").html("19,500");
 });
 
 
